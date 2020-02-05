@@ -1,16 +1,16 @@
 # Pray-to-The-Big-Dipper
 
-##Summary
+## Summary
 
-##Physical Parts / Components
+## Physical Parts / Components
 
 -Arduino
 -Light Sensor
 -Floor Cushion
 -Zodiac Turntable
 
-##Deconstruction System Diagram
+## Deconstruction System Diagram
 
-##Difficulty 
+## Difficulty 
 
-##Timeline
+## Timeline
