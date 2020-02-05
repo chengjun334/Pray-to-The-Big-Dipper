@@ -4,6 +4,8 @@
 
 ## Physical Parts / Components
 
+-LED light
+
 -Arduino
 
 -Light Sensor
