@@ -2,7 +2,8 @@
 
 ## Summary
 
--App 1, Hit The Wooden Fish ![image](http://github.com/chengjun334/Pray-to-The-Big-Dipper/raw/master/Wooden Fish.jpg)
+-App 1, Hit The Wooden Fish
+![image](http://github.com/chengjun334/Pray-to-The-Big-Dipper/raw/master/Wooden Fish.jpg)
 
 -App 2, Click To Pray is the official app of the Pope's Worldwide Prayer Network (Apostleship of Prayer)
 
