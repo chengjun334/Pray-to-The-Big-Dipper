@@ -2,6 +2,9 @@
 
 ## Summary
 
+-App 1, knock The Wooden fish in Buddhism
+-App 2, Click To Pray is the official app of the Pope's Worldwide Prayer Network (Apostleship of Prayer) that revolutionize praying
+
 ## Physical Parts / Components
 
 -LED light
