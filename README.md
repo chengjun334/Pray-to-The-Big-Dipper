@@ -22,8 +22,10 @@
 
 ## Deconstruction System Diagram
 
------------------------------
-Data
+| Data | Render | Simulation | Events |
+| ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 ## Difficulty 
 
