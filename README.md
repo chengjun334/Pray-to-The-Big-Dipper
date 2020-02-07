@@ -39,9 +39,9 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
 | Today's date  | Lights on(if it's time to pray)  | / | Choose zodiac/born year  |
 | kowtow times | Lights off(after 9 times kowtow)  | / | /  |
 
-| Addition features  |
+| Addition features | Data | Render | Simulation | 
 | ------------- | ------------- | ------------- | ------------- |
-| Is anyone on the mat | (Not sure) Send an ir signal to display the star's picture on the screen | Image fades away after standing up  | /  |
+| / | Is anyone on the mat | (Not sure) Send an ir signal to display the star's picture on the screen | Image fades away after standing up  |
 
 ## Difficulty 
 
