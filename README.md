@@ -36,6 +36,7 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
 | ------------- | ------------- | ------------- | ------------- |
 | Today's date  | Lights on(if it's time to pray)  | project a picture of the star   | Choose zodiac/born year  |
 | kowtow times | Lights off(after 9 times kowtow)  | / | /  |
+| Is anyone on the mat | Send an ir signal to display the star's picture on the screen  | / | /  |
 
 ## Difficulty 
 
