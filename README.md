@@ -34,13 +34,13 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
 
 | Data | Render | Simulation | Events |
 | ------------- | ------------- | ------------- | ------------- |
-| Today's date  | Lights on(if it's time to pray)  | project a picture of the star   | Choose zodiac/born year  |
+| Today's date  | Lights on(if it's time to pray)  | Image fades away after standing up | Choose zodiac/born year  |
 | kowtow times | Lights off(after 9 times kowtow)  | / | /  |
 | Is anyone on the mat | Send an ir signal to display the star's picture on the screen  | / | /  |
 
 ## Difficulty 
 
--Automatically time update 
+-Automatically time update (Keep time accurate)
 
 ## Timeline
 
