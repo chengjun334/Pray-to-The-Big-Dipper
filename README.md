@@ -2,6 +2,14 @@
 
 ## Summary
 
+Pray to the Big Dipper is a unique type of prayer in Taoism. 
+Taoists believe that human life and death are closely related to the stars.
+
+https://www.youtube.com/watch?v=FiYysvyk3gc
+
+
+## Inspiration 
+
 -App 1, Hit The Wooden Fish
 
  ![image](http://github.com/chengjun334/Pray-to-The-Big-Dipper/raw/master/WoodenFish.jpg)
