@@ -31,4 +31,19 @@
 
 ## Timeline
 
-
+|  Weeks | Events |
+| ------------- | ------------- |
+| Week3 | Proposal  |
+| Week4  | Research  |
+| Week5  | Research/Looking for Hardware  |
+| Week6  | Proof of Concept  |
+| Week7  | Booking Hardware  |
+| Week8  | Workshop |
+| Week9  | Break |
+| Week10  | Workshop |
+| Week11 |  Prototype  |
+| Week12  | Workshop  |
+| Week13:  | Workshop |
+| Week14  | Finals Critique&Feedback  |
+| Week15 | Ready to Present/Finishing |
+| Week16 |  Present at show  |
