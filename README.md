@@ -2,8 +2,9 @@
 
 ## Summary
 
-Pray to the Big Dipper is a unique type of prayer in Taoism. Taoists believe that praying to the dipper who is in charge of death at the right time can avoid disaster and prolong life.
+Pray to the Big Dipper is a unique type of prayer in Taoism. Taoists believe that praying to the Big Dipper, is in charge of death at the right time, can avoid disaster and prolong life. This work will be an installation that informs people when do they can pray to the Big Dipper and which star are they parying to. People born in different zodiac years need to worship different stars.
 
+Example: In the Romance of the Three Kingdoms, Zhuge Liang tried to pray to The Big Dipper to extend life
 https://www.youtube.com/watch?v=FiYysvyk3gc
 
 
@@ -33,10 +34,13 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
 
 | Data | Render | Simulation | Events |
 | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Today's date  | Lights on(if it's time to pray)  | Content Cell  | Choose zodiac  |
+| kowtow times | Lights off(after 9 times kowtow)  | Content Cell  | Content Cell  |
+| kowtow times | Lights off(after 9 times kowtow)  | Content Cell  | Content Cell  |
 
 ## Difficulty 
+
+-Automatically time update 
 
 ## Timeline
 
