@@ -34,9 +34,8 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
 
 | Data | Render | Simulation | Events |
 | ------------- | ------------- | ------------- | ------------- |
-| Today's date  | Lights on(if it's time to pray)  | /  | Choose zodiac/born year  |
-| kowtow times | Lights off(after 9 times kowtow)  | /  | /  |
-| / | If possible, project a picture of the star  | /  | / |
+| Today's date  | Lights on(if it's time to pray)  | project a picture of the star   | Choose zodiac/born year  |
+| kowtow times | Lights off(after 9 times kowtow)  | / | /  |
 
 ## Difficulty 
 
