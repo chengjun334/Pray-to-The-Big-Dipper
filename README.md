@@ -26,6 +26,8 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
 
 -Light Sensor
 
+-Pressure sensor
+
 -Floor Cushion
 
 -Zodiac Turntable
