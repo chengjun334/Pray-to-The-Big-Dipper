@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
 
 | Addition Features | Data | Render | Simulation | 
 | ------------- | ------------- | ------------- | ------------- |
-| __1__ | Is anyone on the mat | (Not sure) Send an ir signal to display the star's picture on the screen | Image fades away after standing up  |
+| 1 | Is anyone on the mat | (Not sure) Send an ir signal to display the star's picture on the screen | Image fades away after standing up  |
 
 ## Difficulty 
 
