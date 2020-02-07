@@ -42,6 +42,7 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
 
 -Automatically time update (Keep time accurate)
 -Position The Big Dipper (make sure the prayer is facing the right direction)
+-The completeness and accuracy of the ceremony
 
 ## Timeline
 
