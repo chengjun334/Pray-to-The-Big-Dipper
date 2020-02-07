@@ -2,8 +2,7 @@
 
 ## Summary
 
-Pray to the Big Dipper is a unique type of prayer in Taoism. 
-Taoists believe that human life and death are closely related to the stars.
+Pray to the Big Dipper is a unique type of prayer in Taoism. Taoists believe that praying to the dipper who is in charge of death at the right time can avoid disaster and prolong life.
 
 https://www.youtube.com/watch?v=FiYysvyk3gc
 
@@ -50,7 +49,7 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
 | Week7 | Booking Hardware |
 | Week8 | Workshop |
 | Week9 | Break |
-| Week10 | Workshop |
+| Week10 | Finish the base |
 | Week11 | Prototype |
 | Week12 | Workshop |
 | Week13 | Workshop |
