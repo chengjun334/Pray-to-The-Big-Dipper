@@ -12,11 +12,11 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
 
 -App 1, Hit The Wooden Fish
 
- ![image](http://github.com/chengjun334/Pray-to-The-Big-Dipper/raw/master/WoodenFish.jpg)
+ ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/WoodenFish.jpg)
 
 -App 2, Click To Pray is the official app of the Pope's Worldwide Prayer Network (Apostleship of Prayer)
 
- ![image](http://github.com/chengjun334/Pray-to-The-Big-Dipper/raw/master/ClickToPray.jpg)
+ ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/ClickToPray.jpg)
 
 ## Physical Parts / Components
 
@@ -58,13 +58,13 @@ Overview
 ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/1.jpg)
  
 Lights On (Inform you it is time to pray)
-![image](http://github.com/chengjun334/Pray-to-The-Big-Dipper/raw/master/2.jpg)
+![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/2.jpg)
  
 When the cushion is under pressure, the Big Dipper will be projected
-![image](http://github.com/chengjun334/Pray-to-The-Big-Dipper/raw/master/3.jpg)
+![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/3.jpg)
  
 After 9 times kowtows, Lights off
-![image](http://github.com/chengjun334/Pray-to-The-Big-Dipper/raw/master/4.jpg)
+![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/4.jpg)
 
 ## Timeline
 
