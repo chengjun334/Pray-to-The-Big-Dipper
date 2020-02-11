@@ -55,7 +55,7 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
 ## Storyboard
 
 Overview
-![image](http://github.com/chengjun334/Pray-to-The-Big-Dipper/raw/master/1.jpg)
+![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/1.jpg)
  
 Lights On (Inform you it is time to pray)
 ![image](http://github.com/chengjun334/Pray-to-The-Big-Dipper/raw/master/2.jpg)
