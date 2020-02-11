@@ -51,6 +51,14 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
 
 -The completeness and accuracy of the ceremony
 
+
+## Storyboard
+
+ ![image](http://github.com/chengjun334/Pray-to-The-Big-Dipper/raw/master/1.jpg)
+ ![image](http://github.com/chengjun334/Pray-to-The-Big-Dipper/raw/master/2.jpg)
+ ![image](http://github.com/chengjun334/Pray-to-The-Big-Dipper/raw/master/3.jpg)
+ ![image](http://github.com/chengjun334/Pray-to-The-Big-Dipper/raw/master/4.jpg)
+
 ## Timeline
 
 |  Weeks | Events |
