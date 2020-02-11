@@ -54,9 +54,13 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
 
 ## Storyboard
 
+Overview
  ![image](http://github.com/chengjun334/Pray-to-The-Big-Dipper/raw/master/1.jpg)
+Lights On (Inform you it is time to pray)
  ![image](http://github.com/chengjun334/Pray-to-The-Big-Dipper/raw/master/2.jpg)
+When the cushion is under pressure, the Big Dipper will be projected
  ![image](http://github.com/chengjun334/Pray-to-The-Big-Dipper/raw/master/3.jpg)
+After 9 times kowtows, Lights off
  ![image](http://github.com/chengjun334/Pray-to-The-Big-Dipper/raw/master/4.jpg)
 
 ## Timeline
