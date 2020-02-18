@@ -26,6 +26,10 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
 
 -Light Sensor
 
+-RGB Sensor
+
+ ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/rgbSensor.jpg)
+
 -Pressure sensor
 
 -Floor Cushion
