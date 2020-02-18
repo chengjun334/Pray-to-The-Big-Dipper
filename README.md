@@ -30,7 +30,9 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
 
  ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/rgbSensor.jpg)
 
--Pressure sensor
+-Weight Sensor
+
+ ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/weightSensor.jpg)
 
 -Floor Cushion
 
