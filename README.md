@@ -36,6 +36,21 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
 
 -Zodiac Turntable
 
+
+### Possible Parts
+
+-Laser Diode
+
+ ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/laserDiode.jpg)
+
+-Ghost Shadow Lights
+
+ ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/ghostShadowLights.jpg)
+ 
+ -DIY Projector
+ 
+  ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/diy.jpg)
+ 
 ## Deconstruction System Diagram
 
 | Data | Render | Simulation | Events |
