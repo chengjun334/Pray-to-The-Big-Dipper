@@ -22,6 +22,8 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
 
 -LED light
 
+ ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/rgbLight.jpg)
+
 -Arduino
 
 -Light Sensor
@@ -52,6 +54,10 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
  -DIY Projector
  
   ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/diy.jpg)
+  
+ -RGB Ring
+ 
+  ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/rgbRingLight.jpg)
  
 ## Deconstruction System Diagram
 
