@@ -32,7 +32,7 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
 -Floor Cushion
 
 
--Zodiac Turntable
+-Rotary Encoder
 
 
 -Laser Diode
