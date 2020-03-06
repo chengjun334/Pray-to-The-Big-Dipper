@@ -20,39 +20,25 @@ https://www.youtube.com/watch?v=FiYysvyk3gc
 
 ## Physical Parts / Components
 
--LED light
-
- ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/rgbLight.jpg)
 
 -Arduino
 
--RGB light Sensor
 
- ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/rgbSensor.jpg)
-
--Weight Sensor
+-Capacitive Sensor
 
  ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/weightSensor.jpg)
 
+
 -Floor Cushion
+
 
 -Zodiac Turntable
 
-
-### Possible Parts
 
 -Laser Diode
 
  ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/laserDiode.jpg)
 
--Ghost Shadow Lights
-
- ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/ghostShadowLights.jpg)
- 
- -DIY Projector
- 
-  ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/diy.jpg)
-  
  -RGB Ring
  
   ![image](https://github.com/chengjun334/Pray-to-The-Big-Dipper/blob/master/rgbRingLight.jpg)
